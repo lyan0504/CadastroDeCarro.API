@@ -1,10 +1,10 @@
 # CadastroDeCarro.API
-Nesta API, utilizaremos os seguintes atributos para representar um carro:
-Marca: Fabricante do carro (ex: Toyota).
-Modelo: Versão específica (ex: Corolla).
-Ano: Ano de fabricação.
-Cor: Cor do veículo (ex: vermelho).
-Preço: Valor de venda.
-Quilometragem: Distância percorrida em km.
-Tipo de combustível: Ex: gasolina, etanol.
-Número de portas: Quantidade de portas do carro.
+Nesta API, vamos cadastrar carros com as seguintes informações:
+Marca: Quem fabrica o carro.
+Modelo: Qual é o modelo do carro.
+Ano: Em que ano o carro foi feito.
+Cor: De que cor é o carro.
+Preço: Quanto custa o carro.
+Quilometragem: Quantos quilômetros o carro já rodou.
+Tipo de combustível: Que tipo de combustível o carro usa.
+Número de portas: Quantas portas o carro tem.
